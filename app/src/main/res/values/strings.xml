@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">homework18</string>
+    <string name="tabLayout">TabLayout</string>
+    <string name="textViewNameProfile">Name of user</string>
+    <string name="buttonSaveOrChange">Save</string>
+    <string name="textViewTask">Task</string>
+    <string name="textViewStatusTask">Status</string>
+    <string name="imageButtonPhotoProfileDescription">photo profile</string>
+    <string name="textFieldEnterNameHint">Name</string>
+
+</resources>
